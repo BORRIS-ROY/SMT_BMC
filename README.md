@@ -21,7 +21,7 @@ streets, and managing the interactions between different entities (taxis, street
 tions, and obstacles/buildings).
 
 # The Constraints 
-Collision Avoidance: Taxis can not occupy the same grid position at the same time. 
-Obstacle Avoidance: Taxis must avoid collisions or spaces occupied by the obstacles (parked 
+1. Collision Avoidance: Taxis can not occupy the same grid position at the same time. 
+2. Obstacle Avoidance: Taxis must avoid collisions or spaces occupied by the obstacles (parked 
 cars) 
-Traffic Regulations: Taxis must leave a specified gap between themselves. 
+3. Traffic Regulations: Taxis must leave a specified gap between themselves. 
